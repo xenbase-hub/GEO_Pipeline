@@ -1,0 +1,279 @@
+{
+    "run_list": {
+        "SRR15687739": {
+            "experiment_accession": "SRX11983922",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "16727532",
+            "sample_accession": "SAMN21170631",
+            "sample_alias": "GSM5553007",
+            "sample_title": "MB46_III"
+        },
+        "SRR15687740": {
+            "experiment_accession": "SRX11983923",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "13371716",
+            "sample_accession": "SAMN21170632",
+            "sample_alias": "GSM5553008",
+            "sample_title": "SC46_I"
+        },
+        "SRR15687741": {
+            "experiment_accession": "SRX11983924",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "14659502",
+            "sample_accession": "SAMN21170633",
+            "sample_alias": "GSM5553009",
+            "sample_title": "SC46_II"
+        },
+        "SRR15687742": {
+            "experiment_accession": "SRX11983925",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "12925190",
+            "sample_accession": "SAMN21170634",
+            "sample_alias": "GSM5553010",
+            "sample_title": "SC46_III"
+        },
+        "SRR15687743": {
+            "experiment_accession": "SRX11983926",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "14930735",
+            "sample_accession": "SAMN21170635",
+            "sample_alias": "GSM5553011",
+            "sample_title": "FB49_I"
+        },
+        "SRR15687744": {
+            "experiment_accession": "SRX11983927",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "19322921",
+            "sample_accession": "SAMN21170636",
+            "sample_alias": "GSM5553012",
+            "sample_title": "FB49_II"
+        },
+        "SRR15687745": {
+            "experiment_accession": "SRX11983928",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "12823940",
+            "sample_accession": "SAMN21170637",
+            "sample_alias": "GSM5553013",
+            "sample_title": "HB49_I"
+        },
+        "SRR15687746": {
+            "experiment_accession": "SRX11983929",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "16847431",
+            "sample_accession": "SAMN21170638",
+            "sample_alias": "GSM5553014",
+            "sample_title": "HB49_II"
+        },
+        "SRR15687747": {
+            "experiment_accession": "SRX11983930",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "14932802",
+            "sample_accession": "SAMN21170639",
+            "sample_alias": "GSM5553015",
+            "sample_title": "MB49_I"
+        },
+        "SRR15687748": {
+            "experiment_accession": "SRX11983931",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "26471991",
+            "sample_accession": "SAMN21170640",
+            "sample_alias": "GSM5553016",
+            "sample_title": "MB49_II"
+        },
+        "SRR15687749": {
+            "experiment_accession": "SRX11983932",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "16621309",
+            "sample_accession": "SAMN21170641",
+            "sample_alias": "GSM5553017",
+            "sample_title": "SC49_I"
+        },
+        "SRR15687750": {
+            "experiment_accession": "SRX11983933",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "17741069",
+            "sample_accession": "SAMN21170642",
+            "sample_alias": "GSM5553018",
+            "sample_title": "SC49_II"
+        },
+        "SRR15687751": {
+            "experiment_accession": "SRX11983934",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "16268935",
+            "sample_accession": "SAMN21170616",
+            "sample_alias": "GSM5553019",
+            "sample_title": "MB55_I"
+        },
+        "SRR15687752": {
+            "experiment_accession": "SRX11983935",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "19577254",
+            "sample_accession": "SAMN21170617",
+            "sample_alias": "GSM5553020",
+            "sample_title": "MB55_II"
+        },
+        "SRR15687753": {
+            "experiment_accession": "SRX11983936",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "18265379",
+            "sample_accession": "SAMN21170618",
+            "sample_alias": "GSM5553021",
+            "sample_title": "MB55_III"
+        },
+        "SRR15687754": {
+            "experiment_accession": "SRX11983937",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "16528889",
+            "sample_accession": "SAMN21170619",
+            "sample_alias": "GSM5553022",
+            "sample_title": "MB61_I"
+        },
+        "SRR15687755": {
+            "experiment_accession": "SRX11983938",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "12518853",
+            "sample_accession": "SAMN21170613",
+            "sample_alias": "GSM5553023",
+            "sample_title": "MB61_II"
+        },
+        "SRR15687756": {
+            "experiment_accession": "SRX11983939",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "15207134",
+            "sample_accession": "SAMN21170614",
+            "sample_alias": "GSM5553024",
+            "sample_title": "MB61_III"
+        },
+        "SRR15687757": {
+            "experiment_accession": "SRX11983940",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "12341689",
+            "sample_accession": "SAMN21170615",
+            "sample_alias": "GSM5553025",
+            "sample_title": "MB66_I"
+        },
+        "SRR15687758": {
+            "experiment_accession": "SRX11983911",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "11446134",
+            "sample_accession": "SAMN21170620",
+            "sample_alias": "GSM5552996",
+            "sample_title": "MB44_I"
+        },
+        "SRR15687759": {
+            "experiment_accession": "SRX11983912",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "17592659",
+            "sample_accession": "SAMN21170621",
+            "sample_alias": "GSM5552997",
+            "sample_title": "MB44_II"
+        },
+        "SRR15687760": {
+            "experiment_accession": "SRX11983913",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "17246704",
+            "sample_accession": "SAMN21170622",
+            "sample_alias": "GSM5552998",
+            "sample_title": "MB44_III"
+        },
+        "SRR15687761": {
+            "experiment_accession": "SRX11983914",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "11685106",
+            "sample_accession": "SAMN21170623",
+            "sample_alias": "GSM5552999",
+            "sample_title": "FB46_I"
+        },
+        "SRR15687762": {
+            "experiment_accession": "SRX11983915",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "15762251",
+            "sample_accession": "SAMN21170624",
+            "sample_alias": "GSM5553000",
+            "sample_title": "FB46_II"
+        },
+        "SRR15687763": {
+            "experiment_accession": "SRX11983916",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "15197361",
+            "sample_accession": "SAMN21170625",
+            "sample_alias": "GSM5553001",
+            "sample_title": "FB46_III"
+        },
+        "SRR15687764": {
+            "experiment_accession": "SRX11983917",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "11640930",
+            "sample_accession": "SAMN21170626",
+            "sample_alias": "GSM5553002",
+            "sample_title": "HB46_I"
+        },
+        "SRR15687765": {
+            "experiment_accession": "SRX11983918",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "15658986",
+            "sample_accession": "SAMN21170627",
+            "sample_alias": "GSM5553003",
+            "sample_title": "HB46_II"
+        },
+        "SRR15687766": {
+            "experiment_accession": "SRX11983919",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "14428245",
+            "sample_accession": "SAMN21170628",
+            "sample_alias": "GSM5553004",
+            "sample_title": "HB46_III"
+        },
+        "SRR15687767": {
+            "experiment_accession": "SRX11983920",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "17136312",
+            "sample_accession": "SAMN21170629",
+            "sample_alias": "GSM5553005",
+            "sample_title": "MB46_I"
+        },
+        "SRR15687768": {
+            "experiment_accession": "SRX11983921",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "15242400",
+            "sample_accession": "SAMN21170630",
+            "sample_alias": "GSM5553006",
+            "sample_title": "MB46_II"
+        }
+    },
+    "scientific_name": "8355",
+    "study_accession": "PRJNA759592",
+    "study_alias": "GSE183193",
+    "study_title": "Temporal and Spatial Transcriptomic Dynamics across Brain Development in Xenopus laevis tadpoles",
+    "tax_id": "8355"
+}

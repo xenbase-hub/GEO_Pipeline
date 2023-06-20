@@ -1,0 +1,261 @@
+{
+    "run_list": {
+        "SRR2515135": {
+            "experiment_accession": "SRX1286458",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "28696448",
+            "sample_accession": "SAMN04111048",
+            "sample_alias": "GSM1893239",
+            "sample_title": "Taira201203_XENLA_brain"
+        },
+        "SRR2515136": {
+            "experiment_accession": "SRX1286459",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "34535630",
+            "sample_accession": "SAMN04111049",
+            "sample_alias": "GSM1893240",
+            "sample_title": "Taira201203_XENLA_eye"
+        },
+        "SRR2515137": {
+            "experiment_accession": "SRX1286460",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "30948002",
+            "sample_accession": "SAMN04111050",
+            "sample_alias": "GSM1893241",
+            "sample_title": "Taira201203_XENLA_heart"
+        },
+        "SRR2515138": {
+            "experiment_accession": "SRX1286461",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "31496924",
+            "sample_accession": "SAMN04111051",
+            "sample_alias": "GSM1893242",
+            "sample_title": "Taira201203_XENLA_intestine"
+        },
+        "SRR2515139": {
+            "experiment_accession": "SRX1286462",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "38962543",
+            "sample_accession": "SAMN04111052",
+            "sample_alias": "GSM1893243",
+            "sample_title": "Taira201203_XENLA_kidney"
+        },
+        "SRR2515140": {
+            "experiment_accession": "SRX1286463",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "35613433",
+            "sample_accession": "SAMN04111053",
+            "sample_alias": "GSM1893244",
+            "sample_title": "Taira201203_XENLA_liver"
+        },
+        "SRR2515141": {
+            "experiment_accession": "SRX1286464",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "56208405",
+            "sample_accession": "SAMN04111054",
+            "sample_alias": "GSM1893245",
+            "sample_title": "Taira201203_XENLA_lung"
+        },
+        "SRR2515142": {
+            "experiment_accession": "SRX1286465",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "29029311",
+            "sample_accession": "SAMN04111055",
+            "sample_alias": "GSM1893246",
+            "sample_title": "Taira201203_XENLA_muscle"
+        },
+        "SRR2515143": {
+            "experiment_accession": "SRX1286466",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "46585215",
+            "sample_accession": "SAMN04111056",
+            "sample_alias": "GSM1893247",
+            "sample_title": "Taira201203_XENLA_ovary"
+        },
+        "SRR2515144": {
+            "experiment_accession": "SRX1286467",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "28579828",
+            "sample_accession": "SAMN04111057",
+            "sample_alias": "GSM1893248",
+            "sample_title": "Taira201203_XENLA_pancreas"
+        },
+        "SRR2515145": {
+            "experiment_accession": "SRX1286468",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "27772929",
+            "sample_accession": "SAMN04111058",
+            "sample_alias": "GSM1893249",
+            "sample_title": "Taira201203_XENLA_skin"
+        },
+        "SRR2515146": {
+            "experiment_accession": "SRX1286469",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "31815156",
+            "sample_accession": "SAMN04111059",
+            "sample_alias": "GSM1893250",
+            "sample_title": "Taira201203_XENLA_spleen"
+        },
+        "SRR2515147": {
+            "experiment_accession": "SRX1286470",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "63514555",
+            "sample_accession": "SAMN04111060",
+            "sample_alias": "GSM1893251",
+            "sample_title": "Taira201203_XENLA_stomach"
+        },
+        "SRR2515148": {
+            "experiment_accession": "SRX1286471",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "35771444",
+            "sample_accession": "SAMN04111061",
+            "sample_alias": "GSM1893252",
+            "sample_title": "Taira201203_XENLA_testis"
+        },
+        "SRR2515149": {
+            "experiment_accession": "SRX1286472",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "32097412",
+            "sample_accession": "SAMN04111062",
+            "sample_alias": "GSM1893253",
+            "sample_title": "Ueno201210_XENLA_brain"
+        },
+        "SRR2515150": {
+            "experiment_accession": "SRX1286473",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "30410667",
+            "sample_accession": "SAMN04111063",
+            "sample_alias": "GSM1893254",
+            "sample_title": "Ueno201210_XENLA_eye"
+        },
+        "SRR2515151": {
+            "experiment_accession": "SRX1286474",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "31580356",
+            "sample_accession": "SAMN04111064",
+            "sample_alias": "GSM1893255",
+            "sample_title": "Ueno201210_XENLA_heart"
+        },
+        "SRR2515152": {
+            "experiment_accession": "SRX1286475",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "41584582",
+            "sample_accession": "SAMN04111065",
+            "sample_alias": "GSM1893256",
+            "sample_title": "Ueno201210_XENLA_intestine"
+        },
+        "SRR2515153": {
+            "experiment_accession": "SRX1286476",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "41609099",
+            "sample_accession": "SAMN04111066",
+            "sample_alias": "GSM1893257",
+            "sample_title": "Ueno201210_XENLA_kidney"
+        },
+        "SRR2515154": {
+            "experiment_accession": "SRX1286477",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "24744596",
+            "sample_accession": "SAMN04111067",
+            "sample_alias": "GSM1893258",
+            "sample_title": "Ueno201210_XENLA_liver"
+        },
+        "SRR2515155": {
+            "experiment_accession": "SRX1286478",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "22333897",
+            "sample_accession": "SAMN04111068",
+            "sample_alias": "GSM1893259",
+            "sample_title": "Ueno201210_XENLA_lung"
+        },
+        "SRR2515156": {
+            "experiment_accession": "SRX1286479",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "34281673",
+            "sample_accession": "SAMN04111069",
+            "sample_alias": "GSM1893260",
+            "sample_title": "Ueno201210_XENLA_muscle"
+        },
+        "SRR2515157": {
+            "experiment_accession": "SRX1286480",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "30552778",
+            "sample_accession": "SAMN04111070",
+            "sample_alias": "GSM1893261",
+            "sample_title": "Ueno201210_XENLA_ovary"
+        },
+        "SRR2515158": {
+            "experiment_accession": "SRX1286481",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "32173162",
+            "sample_accession": "SAMN04111071",
+            "sample_alias": "GSM1893262",
+            "sample_title": "Ueno201210_XENLA_pancreas"
+        },
+        "SRR2515159": {
+            "experiment_accession": "SRX1286482",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "35339832",
+            "sample_accession": "SAMN04111072",
+            "sample_alias": "GSM1893263",
+            "sample_title": "Ueno201210_XENLA_skin"
+        },
+        "SRR2515160": {
+            "experiment_accession": "SRX1286483",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "33062552",
+            "sample_accession": "SAMN04111073",
+            "sample_alias": "GSM1893264",
+            "sample_title": "Ueno201210_XENLA_spleen"
+        },
+        "SRR2515161": {
+            "experiment_accession": "SRX1286484",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "33486269",
+            "sample_accession": "SAMN04111074",
+            "sample_alias": "GSM1893265",
+            "sample_title": "Ueno201210_XENLA_stomach"
+        },
+        "SRR2515162": {
+            "experiment_accession": "SRX1286485",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "32584206",
+            "sample_accession": "SAMN04111075",
+            "sample_alias": "GSM1893266",
+            "sample_title": "Ueno201210_XENLA_testis"
+        }
+    },
+    "scientific_name": "8355",
+    "study_accession": "PRJNA296921",
+    "study_alias": "GSE73419",
+    "study_title": "Tissue gene expression of Xenopus laevis J strain [tissue]",
+    "tax_id": "8355"
+}

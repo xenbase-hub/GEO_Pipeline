@@ -1,0 +1,279 @@
+{
+    "run_list": {
+        "SRR6666795": {
+            "experiment_accession": "SRX3643656",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "2639445",
+            "sample_accession": "SAMN08457536",
+            "sample_alias": "GSM2977205",
+            "sample_title": "Adult-female1-WTSSseq"
+        },
+        "SRR6666796": {
+            "experiment_accession": "SRX3643657",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "2460936",
+            "sample_accession": "SAMN08457534",
+            "sample_alias": "GSM2977206",
+            "sample_title": "Adult-female2-WTSSseq"
+        },
+        "SRR6666797": {
+            "experiment_accession": "SRX3643658",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "8769207",
+            "sample_accession": "SAMN08457533",
+            "sample_alias": "GSM2977207",
+            "sample_title": "Adult-female3-WTSSseq"
+        },
+        "SRR6666798": {
+            "experiment_accession": "SRX3643659",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "3726755",
+            "sample_accession": "SAMN08457532",
+            "sample_alias": "GSM2977208",
+            "sample_title": "Adult-female4-WTSSseq"
+        },
+        "SRR6666799": {
+            "experiment_accession": "SRX3643660",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "7382922",
+            "sample_accession": "SAMN08457531",
+            "sample_alias": "GSM2977209",
+            "sample_title": "Adult-female5-WTSSseq"
+        },
+        "SRR6666800": {
+            "experiment_accession": "SRX3643661",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "4506994",
+            "sample_accession": "SAMN08457530",
+            "sample_alias": "GSM2977210",
+            "sample_title": "Adult-female6-WTSSseq"
+        },
+        "SRR6666801": {
+            "experiment_accession": "SRX3643662",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "5572303",
+            "sample_accession": "SAMN08457529",
+            "sample_alias": "GSM2977211",
+            "sample_title": "Adult-male1-WTSSseq"
+        },
+        "SRR6666802": {
+            "experiment_accession": "SRX3643663",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "2581616",
+            "sample_accession": "SAMN08457535",
+            "sample_alias": "GSM2977212",
+            "sample_title": "Adult-male2-WTSSseq"
+        },
+        "SRR6666803": {
+            "experiment_accession": "SRX3643664",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "4473491",
+            "sample_accession": "SAMN08457528",
+            "sample_alias": "GSM2977213",
+            "sample_title": "Adult-male3-WTSSseq"
+        },
+        "SRR6666804": {
+            "experiment_accession": "SRX3643665",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "5969121",
+            "sample_accession": "SAMN08457527",
+            "sample_alias": "GSM2977214",
+            "sample_title": "Adult-male4-WTSSseq"
+        },
+        "SRR6666805": {
+            "experiment_accession": "SRX3643666",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "8279306",
+            "sample_accession": "SAMN08457526",
+            "sample_alias": "GSM2977215",
+            "sample_title": "Adult-male5-WTSSseq"
+        },
+        "SRR6666806": {
+            "experiment_accession": "SRX3643667",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "5387677",
+            "sample_accession": "SAMN08457525",
+            "sample_alias": "GSM2977216",
+            "sample_title": "Adult-male6-WTSSseq"
+        },
+        "SRR6666807": {
+            "experiment_accession": "SRX3643668",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "2366320",
+            "sample_accession": "SAMN08457524",
+            "sample_alias": "GSM2977217",
+            "sample_title": "Adult-femalepoolR1-WTSSseq"
+        },
+        "SRR6666808": {
+            "experiment_accession": "SRX3643669",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "11970281",
+            "sample_accession": "SAMN08457523",
+            "sample_alias": "GSM2977218",
+            "sample_title": "Adult-femalepoolR2-WTSSseq"
+        },
+        "SRR6666809": {
+            "experiment_accession": "SRX3643670",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "8378880",
+            "sample_accession": "SAMN08457522",
+            "sample_alias": "GSM2977219",
+            "sample_title": "Adult-femalepool-CAGEseq"
+        },
+        "SRR6666810": {
+            "experiment_accession": "SRX3643671",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "3028945",
+            "sample_accession": "SAMN08457521",
+            "sample_alias": "GSM2977220",
+            "sample_title": "Adult-female1-WTTSseq"
+        },
+        "SRR6666811": {
+            "experiment_accession": "SRX3643672",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "7672687",
+            "sample_accession": "SAMN08457520",
+            "sample_alias": "GSM2977221",
+            "sample_title": "Adult-female2-WTTSseq"
+        },
+        "SRR6666812": {
+            "experiment_accession": "SRX3643673",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "5866458",
+            "sample_accession": "SAMN08457519",
+            "sample_alias": "GSM2977222",
+            "sample_title": "Adult-female3-WTTSseq"
+        },
+        "SRR6666813": {
+            "experiment_accession": "SRX3643674",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "4268814",
+            "sample_accession": "SAMN08457518",
+            "sample_alias": "GSM2977223",
+            "sample_title": "Adult-female4-WTTSseq"
+        },
+        "SRR6666814": {
+            "experiment_accession": "SRX3643675",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "2831707",
+            "sample_accession": "SAMN08457517",
+            "sample_alias": "GSM2977224",
+            "sample_title": "Adult-female5-WTTSseq"
+        },
+        "SRR6666815": {
+            "experiment_accession": "SRX3643676",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "4729107",
+            "sample_accession": "SAMN08457579",
+            "sample_alias": "GSM2977225",
+            "sample_title": "Adult-female6-WTTSseq"
+        },
+        "SRR6666816": {
+            "experiment_accession": "SRX3643677",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "4494649",
+            "sample_accession": "SAMN08457578",
+            "sample_alias": "GSM2977226",
+            "sample_title": "Adult-male1-WTTSseq"
+        },
+        "SRR6666817": {
+            "experiment_accession": "SRX3643678",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "3755650",
+            "sample_accession": "SAMN08457577",
+            "sample_alias": "GSM2977227",
+            "sample_title": "Adult-male2-WTTSseq"
+        },
+        "SRR6666818": {
+            "experiment_accession": "SRX3643679",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "3288773",
+            "sample_accession": "SAMN08457576",
+            "sample_alias": "GSM2977228",
+            "sample_title": "Adult-male3-WTTSseq"
+        },
+        "SRR6666819": {
+            "experiment_accession": "SRX3643680",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "6216651",
+            "sample_accession": "SAMN08457575",
+            "sample_alias": "GSM2977229",
+            "sample_title": "Adult-male4-WTTSseq"
+        },
+        "SRR6666820": {
+            "experiment_accession": "SRX3643681",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "6876147",
+            "sample_accession": "SAMN08457503",
+            "sample_alias": "GSM2977230",
+            "sample_title": "Adult-male5-WTTSseq"
+        },
+        "SRR6666821": {
+            "experiment_accession": "SRX3643682",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "3061387",
+            "sample_accession": "SAMN08457502",
+            "sample_alias": "GSM2977231",
+            "sample_title": "Adult-male6-WTTSseq"
+        },
+        "SRR6666822": {
+            "experiment_accession": "SRX3643683",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "132485494",
+            "sample_accession": "SAMN08457501",
+            "sample_alias": "GSM2977232",
+            "sample_title": "Adult-femalepool-HATTseq"
+        },
+        "SRR6666823": {
+            "experiment_accession": "SRX3643684",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "104557",
+            "sample_accession": "SAMN08457500",
+            "sample_alias": "GSM2977233",
+            "sample_title": "Embryo-Isoseq"
+        },
+        "SRR6666824": {
+            "experiment_accession": "SRX3643685",
+            "library_layout": "SINGLE",
+            "library_strategy": "RNA-Seq",
+            "read_count": "264963",
+            "sample_accession": "SAMN08457499",
+            "sample_alias": "GSM2977234",
+            "sample_title": "Adult-Isoseq"
+        }
+    },
+    "scientific_name": "8364",
+    "study_accession": "PRJNA432702",
+    "study_alias": "GSE110063",
+    "study_title": "Profiling of alternative transcription start sites and alternative polyadenylation sites in Xenopus tropicalis",
+    "tax_id": "8364"
+}

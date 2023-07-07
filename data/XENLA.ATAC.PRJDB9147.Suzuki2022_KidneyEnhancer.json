@@ -1,0 +1,81 @@
+{
+    "run_list": {
+        "DRR212330": {
+            "experiment_accession": "DRX202680",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "54913246",
+            "sample_accession": "SAMD00207105",
+            "sample_alias": "SAMD00207105",
+            "sample_title": "uninjured_nephric_tubule_No1_2"
+        },
+        "DRR212331": {
+            "experiment_accession": "DRX202681",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "56637385",
+            "sample_accession": "SAMD00207106",
+            "sample_alias": "SAMD00207106",
+            "sample_title": "uninjured_nephric_tubule_No1_3"
+        },
+        "DRR212332": {
+            "experiment_accession": "DRX202682",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "258355148",
+            "sample_accession": "SAMD00207107",
+            "sample_alias": "SAMD00207107",
+            "sample_title": "uninjured_nephric_tubule_No2"
+        },
+        "DRR212333": {
+            "experiment_accession": "DRX202683",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "259879992",
+            "sample_accession": "SAMD00207108",
+            "sample_alias": "SAMD00207108",
+            "sample_title": "uninjured_nephric_tubule_No3"
+        },
+        "DRR212334": {
+            "experiment_accession": "DRX202684",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "124383094",
+            "sample_accession": "SAMD00207109",
+            "sample_alias": "SAMD00207109",
+            "sample_title": "regenerating_nephric_tubule_day2_No5"
+        },
+        "DRR212335": {
+            "experiment_accession": "DRX202685",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "161440925",
+            "sample_accession": "SAMD00207110",
+            "sample_alias": "SAMD00207110",
+            "sample_title": "regenerating_nephric_tubule_day2_No7"
+        },
+        "DRR212336": {
+            "experiment_accession": "DRX202686",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "259528317",
+            "sample_accession": "SAMD00207111",
+            "sample_alias": "SAMD00207111",
+            "sample_title": "regenerating_nephric_tubule_day5_No9"
+        },
+        "DRR212337": {
+            "experiment_accession": "DRX202687",
+            "library_layout": "PAIRED",
+            "library_strategy": "ATAC-seq",
+            "read_count": "250047311",
+            "sample_accession": "SAMD00207112",
+            "sample_alias": "SAMD00207112",
+            "sample_title": "regenerating_nephric_tubule_day5_No10"
+        }
+    },
+    "scientific_name": "8355",
+    "study_accession": "PRJDB9147",
+    "study_alias": "DRP008840",
+    "study_title": "Genome-wide identification of regeneration enhancer for nephric tubules using ATAC-seq and in vivo enhancer mapping",
+    "tax_id": "8355"
+}

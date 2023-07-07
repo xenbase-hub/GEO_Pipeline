@@ -1,0 +1,90 @@
+{
+    "run_list": {
+        "SRR9878357": {
+            "experiment_accession": "SRX6631063",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "59775742",
+            "sample_accession": "SAMN12392042",
+            "sample_alias": "Sample 9",
+            "sample_title": "R9 female intestine"
+        },
+        "SRR9878358": {
+            "experiment_accession": "SRX6631062",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "59162711",
+            "sample_accession": "SAMN12392036",
+            "sample_alias": "Sample 3",
+            "sample_title": "R3 female ovary adult"
+        },
+        "SRR9878359": {
+            "experiment_accession": "SRX6631061",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "54090619",
+            "sample_accession": "SAMN12392037",
+            "sample_alias": "Sample 4",
+            "sample_title": "R4 female lung"
+        },
+        "SRR9878360": {
+            "experiment_accession": "SRX6631060",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "58244888",
+            "sample_accession": "SAMN12392034",
+            "sample_alias": "Sample 1",
+            "sample_title": "R1 female head adult"
+        },
+        "SRR9878361": {
+            "experiment_accession": "SRX6631059",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "58168364",
+            "sample_accession": "SAMN12392035",
+            "sample_alias": "Sample 2",
+            "sample_title": "R2 male head adult"
+        },
+        "SRR9878362": {
+            "experiment_accession": "SRX6631058",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "57059385",
+            "sample_accession": "SAMN12392040",
+            "sample_alias": "Sample 7",
+            "sample_title": "R7 female heart"
+        },
+        "SRR9878363": {
+            "experiment_accession": "SRX6631057",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "62617847",
+            "sample_accession": "SAMN12392041",
+            "sample_alias": "Sample 8",
+            "sample_title": "R8 male heart"
+        },
+        "SRR9878364": {
+            "experiment_accession": "SRX6631056",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "57517900",
+            "sample_accession": "SAMN12392038",
+            "sample_alias": "Sample 5",
+            "sample_title": "R5 male testes"
+        },
+        "SRR9878365": {
+            "experiment_accession": "SRX6631055",
+            "library_layout": "PAIRED",
+            "library_strategy": "RNA-Seq",
+            "read_count": "66551531",
+            "sample_accession": "SAMN12392039",
+            "sample_alias": "Sample 6",
+            "sample_title": "R6 female GI tract"
+        }
+    },
+    "scientific_name": "8364",
+    "study_accession": "PRJNA556878",
+    "study_alias": "PRJNA556878",
+    "study_title": "Xenopus tropicalis strain:nigerians Transcriptome or Gene expression",
+    "tax_id": "8364"
+}
